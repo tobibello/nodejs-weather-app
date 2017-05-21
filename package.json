@@ -14,5 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.2.1"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/tobibello/nodejs-weather-app.git"
   }
 }
